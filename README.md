@@ -1,1 +1,1 @@
-https://github.com/Neeck7/ono-tebe-nado.git
+https://github.com/Neeck7/posmotri_v_okno.git
